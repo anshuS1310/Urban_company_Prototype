@@ -1,5 +1,7 @@
 # Urban Company — Clickable Prototype
 
+**Live Demo** - https://urban-company-prototype.vercel.app/
+
 A clickable UI prototype of the Urban Company app, built as part of a PM internship assignment. Made with plain HTML, CSS and vanilla JS — no frameworks, no libraries.
 
 ---
