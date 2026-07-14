@@ -2,7 +2,7 @@
 
 **Live Demo** - https://urban-company-prototype.vercel.app/
 
-A clickable UI prototype of the Urban Company app, built as part of a PM internship assignment. Made with plain HTML, CSS and vanilla JS — no frameworks, no libraries.
+A clickable UI prototype of the Urban Company app. Made with plain HTML, CSS and vanilla JS — no frameworks, no libraries.
 
 ---
 
@@ -80,4 +80,4 @@ Run it and see for yourself, it's better live.
 ---
 
 Made by Anshu Singh  
-B.Tech CSE · PM Intern Assignment · July 2026
+B.Tech CSE · July 2026
